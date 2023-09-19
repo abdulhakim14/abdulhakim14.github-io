@@ -1,5 +1,5 @@
             =====> React || Beach Resort Project <=====
-                     Hotel Room Booking System
+                     Resort Room Booking System
             -------------------------------------------
 
 1. CREATE-A-NEW-REACT-APP - npx create-react-app react-beach-resort-dev
