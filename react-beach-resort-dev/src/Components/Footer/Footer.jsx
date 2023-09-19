@@ -5,16 +5,16 @@ export default function Footer() {
 
   return (
     <footer className="footer">
-      <h2>Beach Resort | Hotel Room Book</h2>
+      <h2>Resort Room Book</h2>
       <p>
         &copy; <span>{year}</span> BeachResort.com - All Rights Copyright
         Reserved To{" "}
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.facebook.com/SamiurRahmanMukul"
+          href="https://web.facebook.com/abdul.hakim89758"
         >
-          Samiur Rahman Mukul
+          Md. Abdul Hakim
         </a>
       </p>
     </footer>
